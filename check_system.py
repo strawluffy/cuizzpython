@@ -2,5 +2,4 @@
 #coding:utf8
 
 import platform
-
-print platform.version()
+print platform.processor()
